@@ -5,6 +5,8 @@
 This project addresses a critical banking problem: **Predicting Credit Risk.** Using a dataset of 30,000 clients, I built a data pipeline that moves raw data from CSV to a PostgreSQL database, performs SQL transformations, and uses Python to visualize high-risk segments.
 
 ![Credit Risk Heatmap](risk_heatmap.png)
+### Visualizing the 'Slippery Slope'
+![Payment Trend](payment_trend.png)
 
 ## Tech Stack
 * **Database:** PostgreSQL (Data Modeling & Views)
